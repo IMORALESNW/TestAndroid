@@ -7,5 +7,6 @@
     <string name="button_send">Enviar</string>
     <string name="title_activity_display_message">My Message</string>
     <string name="action_search">Buscar</string>
-    <string name="una_prueba">Esta es una pruebasssss</string>
+    <string name="test_checkIn">TEst </string>
+
 </resources>
