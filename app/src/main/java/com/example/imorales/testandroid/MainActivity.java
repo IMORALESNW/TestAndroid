@@ -51,5 +51,7 @@ public class MainActivity extends ActionBarActivity {
         String message = edit.getText().toString();
 
         intent.putExtra(EXTRA_MESSAGE,message);
+
+        // PROBANDO PROBANDO 123
     }
 }
