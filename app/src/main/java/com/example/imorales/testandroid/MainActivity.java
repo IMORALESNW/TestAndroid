@@ -11,6 +11,8 @@ import android.widget.EditText;
 
 public class MainActivity extends ActionBarActivity {
 
+    private EditText vTest;
+
     public final static String EXTRA_MESSAGE = "com.mycompany.myfirstapp.MESSAGE";
 
     @Override
@@ -47,6 +49,9 @@ public class MainActivity extends ActionBarActivity {
         Intent intent = new Intent(this, DisplayMessageActivity.class);
 
         EditText edit = (EditText)findViewById(R.id.edit_message);
+
+            vTest = (EditText) findViewById(R.id.edit_message);
+
 
         String message = edit.getText().toString();
 
