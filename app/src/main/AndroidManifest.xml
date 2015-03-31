@@ -24,6 +24,10 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.imorales.testandroid.MainActivity" />
         </activity>
+        <activity
+            android:name=".Pantalla2"
+            android:label="@string/title_activity_pantalla2" >
+        </activity>
     </application>
 
 </manifest>
