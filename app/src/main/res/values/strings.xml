@@ -1,13 +1,9 @@
 <resources>
     <string name="app_name">TestAndroid</string>
-
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="edit_message">Mensaje</string>
     <string name="button_send">Enviar</string>
-    <string name="title_activity_display_message">My Message</string>
-    <string name="action_search">Buscar</string>
-    <string name="test_checkIn">TEst </string>
-    <string name="test_checkOut">TEst2 </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">DisplayMessage</string>
     <string name="title_activity_pantalla2">Pantalla2</string>
 </resources>

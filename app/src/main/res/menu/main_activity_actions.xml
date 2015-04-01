@@ -2,10 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:AndroidTest="http://schemas.android.com/apk/res-auto">
 
-    <item android:id="@+id/action_search"
-        android:icon="@drawable/search"
-        android:title="@string/action_search"
-        AndroidTest:showAsAction="ifRoom" />
+
 
     <item android:id="@+id/action_settings"
         android:title="@string/action_settings"
